@@ -7,4 +7,4 @@
 
 ### Screenshot
 
-<img src="/public/readme/preview.png" alt="preview" />
+<img src="/preview.png" alt="preview" />
