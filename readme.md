@@ -1,4 +1,4 @@
-# Automata de pila - JAVASCRITP
+# Automata de pila
 
 ### The challenge
 - Crear automata de pila en base a un lenguaje
